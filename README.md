@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **My External And Internal (C++)**
 
-- 🌱 I’m currently learning **Luau**
+- 🌱 I’m currently learning **Luau And Kernel**
 
 - 📫 How to reach me **Discord : writingmemory**
 
