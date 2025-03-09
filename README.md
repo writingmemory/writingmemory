@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Writingmemory</h1>
 <h3 align="center">A Developer/Reverser</h3>
 
-- 🔭 I’m currently working on **My External And Internal (C++)**
+- 🔭 I’m currently working on **Marvel Rivals External & Fortnite External (C++)**
 
-- 🌱 I’m currently learning **Luau And Kernel**
+- 🌱 I’m currently learning **Kernel**
 
 - 📫 How to reach me **Discord : writingmemory**
 
