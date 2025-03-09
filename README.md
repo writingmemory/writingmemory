@@ -19,9 +19,6 @@
   <a href="https://learncpp.com" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
   </a> 
-  <a href="https://www.lua.org/start.html" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
-    <img src="https://www.svgrepo.com/show/354020/lua.svg" alt="lua" width="40" height="40"/> 
-  </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
