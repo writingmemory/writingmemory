@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Marvel Rivals External & Fortnite External (C++)**
 
-- 🌱 I’m currently learning **Kernel**
+- 🌱 I’m currently learning **Kernel And Reversing**
 
 - 📫 How to reach me **Discord : writingmemory**
 
