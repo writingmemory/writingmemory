@@ -27,7 +27,7 @@
 
   </a>
   <a href ="https://cheatengine.org" target="_blank" rel="noreferrer" style="text-decoration: none;">
-     <img src="https://en.wikipedia.org/wiki/Cheat_Engine#/media/File:Cheat_Engine_2023_Vector_Logo.svg" alt="Cheat Engine" width="40" height="40"/>
+     <img src="https://lh3.googleusercontent.com/J8FG9Zpp8V3ATTCfv9y78G223t8fyXTtm9rIcNrwog_ekf7rvE-hmRvkhis1_gQwjV66hAk4OgMX0leGyryhb9UCnvcHdUn1XcqaQPRd2S57ur40V49c=h60" alt="Cheat Engine" width="40" height="40"/>
 
   </a>
 
