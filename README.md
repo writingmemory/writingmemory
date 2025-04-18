@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on **Rainbow Six Siege Internal , Fortnite External (C++)**
 
+- 💬 I Speak **English** And **French**
+
 - 🌱 I’m currently learning **Kernel**
 
 - 📫 How to reach me **Discord : writingmemory**
