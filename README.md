@@ -26,6 +26,12 @@
   </a>
 
   </a>
+  <a href ="https://cheatengine.org" target="_blank" rel="noreferrer" style="text-decoration: none;">
+     <img src="https://en.wikipedia.org/wiki/Cheat_Engine#/media/File:Cheat_Engine_2023_Vector_Logo.svg" alt="Cheat Engine" width="40" height="40"/>
+
+  </a>
+
+  </a>
   <a href ="https://github.com/ReClassNET/ReClass.NET" target="_blank" rel="noreferrer" style="text-decoration: none;">
      <img src="https://avatars.githubusercontent.com/u/36203059?s=200&v=4" alt="ReClass.NET" width="40" height="40"/>
 
