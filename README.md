@@ -22,7 +22,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
   </a> 
   <a href="https://hex-rays.com/ida-pro" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
-    <img src="https://gigtn.s3.eu-west-3.amazonaws.com/media/2025/01/06171658/he.png" alt="IDA" width="40" height="40"/> 
+    <img src="https://hex-rays.com/hs-fs/hubfs/Imported_Blog_Media/ida_teams_logo-Jun-18-2024-08-54-56-8563-AM.png?width=200&name=ida_teams_logo-Jun-18-2024-08-54-56-8563-AM.png" alt="IDA" width="40" height="40"/> 
   </a>
 
   </a>
